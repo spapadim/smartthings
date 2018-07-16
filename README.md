@@ -1,2 +1,3 @@
 # smartthings
-My SmartThings apps and devicetypes
+
+SmartThings apps and devicetypes developed for personal use
